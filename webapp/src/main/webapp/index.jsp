@@ -2,3 +2,4 @@
 <h2> Executing first devops project </h2>
 Execute the script
 Project1 was successful
+Tomorrow is diwali
